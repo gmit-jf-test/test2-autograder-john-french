@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "autotest",
-      "setup": "bundle",
+      "setup": "gem install bundler && bundle",
       "run": "rspec",
       "input": "",
       "output": "",
