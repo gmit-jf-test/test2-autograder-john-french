@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "autotest",
+      "setup": "bundle",
+      "run": "rspec",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 300
+    }
+  ]
+}
